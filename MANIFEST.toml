@@ -1,0 +1,10 @@
+uuid = "33742360-305f-4ae7-b24e-58b7257111d1"
+name = "Restore Unsynced Vorbis Lyrics"
+description = "Stops Picard 3 merging UNSYNCEDLYRICS into lyrics in Vorbis comment files (tested on FLAC), and enables multi-line editing of the unsyncedlyrics tag."
+api = ["3.0"]
+version = "1.0.0"
+authors = ["Jeppevinkel"]
+license = "GPL-2.0-or-later"
+license_url = "https://www.gnu.org/licenses/gpl-2.0.html"
+homepage = "https://github.com/Jeppevinkel/picard-restore-unsynced-lyrics"
+report_bugs_to = "https://github.com/Jeppevinkel/picard-restore-unsynced-lyrics/issues"
